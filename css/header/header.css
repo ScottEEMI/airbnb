@@ -1,0 +1,6 @@
+.header{
+  position: fixed;
+  background-color: red;
+  height: 40px;
+  text-align: center;
+}

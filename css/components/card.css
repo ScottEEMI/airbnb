@@ -1,0 +1,12 @@
+.cards{
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+  width: 200px;
+  height: 180px;
+  border-radius: 5px;
+  color: rgba(240, 240, 240, 1);
+  margin: 1%;
+}
